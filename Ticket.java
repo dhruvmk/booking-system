@@ -1,4 +1,4 @@
-public class ticket {
+public class Ticket {
 
   private double cost;
   private boolean isBooked = false;
