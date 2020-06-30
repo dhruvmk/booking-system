@@ -1,4 +1,4 @@
-public class event {
+public class Event {
   private ticket[][] seats;
 
   public event(int numRows, int numColumns) {
